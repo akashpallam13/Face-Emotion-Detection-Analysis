@@ -86,7 +86,8 @@ occurrence matrix (GLCM).
  • Image splitting 
 • Classification
  • Prediction
- • Performance metrics
+ • Performance metrics.
+ 
                                   MODULES DESCRIPTION
     Input Video
  • The dataset contains the images in the form of ‘.mp4’.
@@ -132,6 +133,7 @@ performance of this proposed approach is evaluated using some measures like,
 accuracy of the predictor refers to how well a given predictor can guess the value of predicted 
 attribute for a new data.
  AC= (TP+TN)/ (TP+TN+FP+FN).
+ 
                              SYSTEM REQUIREMENTS
  SOFTWARE REQUIREMENTS:
  • O/S                    
@@ -152,6 +154,7 @@ attribute for a new data.
  :   110 keys enhanced
  :      
 4GB.
+
                                       Conclusion
                                       
  • We conclude that, the depression video dataset was taken from dataset repository. We are converted the 
@@ -167,6 +170,7 @@ specified expressions, are needed for the next generation of systems, which are 
 occurring behavior (spontaneous and multimodal) in reallife settings. Work in spontaneous facial 
 expression analysis is just now emerging and potentially will have significant impact across a range of 
 theoretical and applied topics.
+
                                      Screenshots
                                      
 ![image](https://github.com/user-attachments/assets/85e1eb54-0d01-4eee-8407-a23dafb7c790)
