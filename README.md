@@ -1,9 +1,10 @@
-FACE EMOTION DETECTION ANALYSIS USING MACHINE             
+                                       FACE EMOTION DETECTION ANALYSIS USING MACHINE             
 LEARNING
  By 
-PALLAM AKASH                 21D45A6704
+ PALLAM AKASH                 21D45A6704
  GUIDE :
- Dr. R Sugumar
+ Dr. R Sugumar.
+ 
                                     ABSTRACT
  • Depression is the most common type of physiological or mood disorder affecting many individuals around the
  globe. Depressed people are more prone to many other problems, like sadness, loneliness, and anxiety.
